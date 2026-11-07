@@ -1,0 +1,9 @@
+.DS_Store
+
+# 构建产物
+build/
+dist/
+
+# 分发包（通过 GitHub Releases 发布）
+*.dmg
+*.dmg.zip
